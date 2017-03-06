@@ -7,6 +7,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-		System.out.println( "\nsucess" );
+		System.out.println( "\nsucess my dear" );
     }
 }
+
